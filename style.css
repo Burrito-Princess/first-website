@@ -1,0 +1,64 @@
+.title{
+    color:white;
+    position: absolute;
+    top: 0%;
+    left: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 480%;
+}
+
+.titlep2{
+    color:white;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 1.5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 480%;
+}
+
+.main{
+    position: absolute;
+    top:35%;
+    color:white;
+}
+
+.two{
+    position: absolute;
+    left: 30%;
+    top: 35%;
+    color:white;
+}
+
+.three{
+    position: absolute;
+    left: 60%;
+    top: 35%;
+    color:white;
+}
+
+#seal{
+    max-width: 10%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#flag1{
+    max-width: 29%;
+    float:right;
+    position: absolute;
+    right: 10px;
+    top:0px;
+
+}
+
+#discordbutton{
+    max-width: 50%;
+    position: absolute;
+    bottom: -40%;
+}
+
+#page{
+    background-color:rgb(10,101,68) ;
+}
